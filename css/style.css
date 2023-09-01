@@ -8,6 +8,7 @@
     text-transform: capitalize;
     transition: all 0.2s linear;
     font-family: 'Fira Sans', sans-serif;
+    text-transform: none;
 }
 :root{
     --min-color: #fff;
