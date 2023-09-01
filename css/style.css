@@ -251,8 +251,8 @@ header .fa-bars{
 }
 .team .team-slider .box .image img{
     width: 10rem;
-    height: 7rem;
-    border-radius: 50%;
+    height: 9rem;
+    border-radius: 48%;
     position: absolute;
     top: 22rem; left: 1rem;
     border: 0.3rem solid var(--sc-color);
